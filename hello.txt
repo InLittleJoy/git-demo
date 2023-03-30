@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ng!
+=======
+kkjjjjkO
+wujiang  Hel
+wujiang  Hello wujiang!
+>>>>>>> 02fenqu
 wujiang  Hello wujiang!
 wujiang  Hello wujiang!
 Hello wujiang!
